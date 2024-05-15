@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(to right,rgb(22, 22, 71), black);
+}
+@media (min-width: 668px){
+
+}
+.oplata-text-1{
+    font-size: 3rem;
+    color: white;
+    margin-left: 2rem;
+}
+.oplata-text-2{
+    color: white;
+    margin-left: 2rem;
+}
+.oplata-text-3{
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 3rem;
+    border-bottom: 1px solid white;
+}
+label{
+    display: flex;
+    color: white;
+}
+.oplata-card-01{
+    display: flex;
+    flex-direction: column;
+    margin-left: 7rem;
+    margin-top: 3rem;
+}
+input{
+    width: 12rem;
+    height: 1.5rem;
+   
+}
+.oplata-text-4{
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    color: white;
+}
+.oplata-text-5{
+    margin-top: 0.5rem;
+    color: white;
+    font-size: 0.9rem;
+}
+.card-ichidagi{
+    width: 20rem;
+    height: 8rem;
+    text-align: center;
+    border: 2px dashed rgb(255, 183, 0);
+}
+.card-ichidagi-1{
+    width: 20rem;
+    height: 8rem;
+    text-align: center;
+    border: 2px dashed white;
+    margin-left: 6rem;
+}
+.oplata-card-02{
+    display: flex;
+    align-items: center;
+    margin-left: 7rem;
+    margin-top: 5rem;
+}
+.oplata-text-7{
+    color: white;
+    font-size: 1.2rem;
+    margin-top: 5rem;
+    margin-left: 7rem;
+}
+.card-ichidegi-3{
+    margin-top: 1rem;
+    margin-left: 7rem;
+}
+.card-ichi{
+    display: flex;
+    align-items: center;
+    width: 23rem;
+    height: 5rem;
+    margin-left: 7rem;
+    margin-top: 3rem;
+    color: white;
+    border: 2px dashed white;
+}
+.card-ichi:hover{
+    border: 2px dashed rgb(255, 183, 0);
+}
+.icon-1{
+    margin-top: 1rem;
+    width: 2rem;
+    height: 2rem;
+}
+.radio{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 1rem;
+}
+.input-text{
+    margin-left: 1rem;
+}
+.knopka-3{
+    width: 10rem;
+    height: 2rem;
+    color: black;
+    font-size: 1rem;
+    border: none;
+    background-color: yellow;
+    margin-top: 3rem;
+    margin-left: 7rem;
+}
+.knopka-3:hover{
+    background-color: rgb(182, 182, 5);
+    cursor: pointer;
+}

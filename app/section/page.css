@@ -1,0 +1,173 @@
+.steyk{
+    position: absolute;
+    top: 5.5rem;
+    left: 36rem;
+    width: 55rem;
+    height: 32rem;
+    border-radius: 6px;
+}
+.p1{
+    color: white;
+    font-size: 2rem;
+    margin-left: 4.3rem;
+    margin-top: 8rem;
+}
+.p2{
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 5rem;
+    margin-left: 4.3rem;
+}
+.card{
+    position: relative;
+    top: 6rem;
+    left: 42rem;
+    width: 15rem;
+    border-radius: 1px 40px 1px 40px;
+    border: 5px double white;
+    height: 17rem;
+    background-color: rgb(145, 2, 2);
+    transition: transform 0.3s ease-in-out;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.p3{
+    color: white;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p4{
+    color: white;
+    margin-left: 2.3rem;
+    width: 2.7rem;
+    background-color: transparent;
+}
+.p5{
+    color: white;
+    font-size: 0.8rem;
+    margin-left: 2.3rem;
+}
+.card-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p6{
+    margin-left: 2.3rem;
+    font-size: 1.2rem;
+    color: white;
+}
+.card-foto{
+    width: 2.8rem;
+    border-radius: 5px;
+    background-color: yellow;
+}
+.p8{
+    margin-top: 8rem;
+    margin-bottom: 1.7rem;
+    color: white;
+    font-size: 2.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-photo{
+    width: 15rem;
+    height: 9rem;
+}
+.card-3{
+    width: 16rem;
+    height: 30rem;
+    transition: transform 0.3s ease-in-out;
+}
+.card-3:hover{
+    transform: scale(1.1);
+}
+.p0{
+    color: white;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+.p-size{
+    width: 2rem;
+    background-color: gray;
+    color: white;
+    margin-left: 1rem;
+}
+.p-text{
+    color: white;
+    margin-left: 1rem;
+    font-size: 0.8rem;
+}
+.card-container{
+    display: flex;
+    align-items: center;
+    margin-left: 5rem;
+}
+.container-card{
+     display: flex;
+     align-items: center;
+     margin-left: 5rem;
+}
+.menu-container{
+    display: flex;
+    align-items: center; 
+    width: 100%;
+    margin-left: 5rem;
+    height: 27rem;
+}
+.menu-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+     width: 16rem;
+     height: 26rem;
+     background-color: black;
+     margin: 0.5rem;
+    transition: transform 0.3s ease-in-out;
+    color: white;
+}
+.menu-card:hover{
+    transform: scale(1.1);
+    color: white;
+}
+.menu-foto{
+    width: 14rem;
+    height: 14rem;
+    border-radius: 50%;
+    margin-top: 5rem;
+}
+.text-001{
+    position: absolute;
+    top: 135rem;
+    font-size: 2.5rem;
+}
+.card-skidka{
+    width: 16rem;
+    height: 26rem;
+    margin-right: 0.5rem;
+    background-color: red;
+    transition: transform 0.3s ease-in-out;
+}
+.card-skidka:hover{
+    transform: scale(1.1);
+}
+.text-skidka{
+    font-size: 5rem;
+    color: black;
+    margin-left: 4rem;
+    margin-top: 0.5rem;
+}
+.skidka-t{
+    font-size: 3rem;
+    color: black;
+    margin-left: 4rem;
+}
+.skidka-fire{
+    width: 1.5rem;
+    height: 1.5rem;
+}

@@ -1,0 +1,66 @@
+body{
+    background-image: linear-gradient(to right,rgb(22, 22, 71), black);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.p-text{
+    color: white;
+    font-size: 2.5rem;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.p-text-1{
+    color: white;
+    margin-left: 2rem;
+}
+.image{
+    position: absolute;
+    right: 2rem;
+    top: 5rem;
+    width: 15rem;
+    height: 22rem;
+}
+.image-1{
+    position: absolute;
+    right: 18rem;
+    top: 18rem;
+    width: 20rem;
+    height: 22rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 1.3rem;
+    margin-top: 3rem;
+    margin-left: 2rem;
+}
+#otziv{
+    width: 28rem;
+    height: 8rem;
+    resize: none;
+    outline: none;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 1rem;
+}
+#email{
+    width: 17rem;
+    height: 2rem;
+    resize: none;
+    outline: none;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 1rem;
+}
+.knopka{
+    width: 10rem;
+    height: 2rem;
+    background-color: transparent;
+    border: 1px solid  rgb(255, 183, 0);
+    color:  rgb(255, 183, 0);
+    margin-top:2rem;
+    margin-left: 2rem;
+}

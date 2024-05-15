@@ -1,0 +1,83 @@
+body{
+    background-image: linear-gradient(to right,rgb(22, 22, 71), black);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.card-3{
+    width: 16rem;
+    height: 25rem;
+    transition: transform 0.3s ease-in-out;
+}
+.card-3:hover{
+    transform: scale(1.1);
+}
+.card-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p6{
+    margin-left: 2.3rem;
+    font-size: 1.2rem;
+    color: white;
+}
+.card-foto{
+    width: 2.8rem;
+    border-radius: 5px;
+    background-color: yellow;
+}
+.card-photo{
+    width: 15rem;
+    height: 9rem;
+}
+.p0{
+    color: white;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+.p-size{
+    width: 2rem;
+    background-color: gray;
+    color: white;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.p-text{
+    color: white;
+    margin-left: 1rem;
+    font-size: 0.8rem;
+}
+.carddd{
+    display: flex;
+    margin-top: 4rem;
+}
+.text-000{
+    font-size: 2.7rem;
+    margin-top: 7rem;
+    color: white;
+    margin-left: 2rem;
+}
+.icecream{
+    width: 45rem;
+    height: 25rem;
+    margin-left: 13rem;
+    border-radius: 30px 2px 30px 2px;
+}
+.xolodno-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.cream-text{
+    font-size: 3rem;
+    color: white;
+    margin-top: 10.5rem;
+    margin-left: 2rem;
+}
+.cream-text-1{
+    color: white;
+    margin-left: 2rem;
+}

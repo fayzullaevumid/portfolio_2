@@ -1,0 +1,65 @@
+body{
+    background-image: linear-gradient(to right,rgb(22, 22, 71), black);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.card-3{
+    width: 16rem;
+    height: 19rem;
+    transition: transform 0.3s ease-in-out;
+}
+.card-3:hover{
+    transform: scale(1.1);
+}
+.card-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.p6{
+    margin-left: 2.3rem;
+    font-size: 1.2rem;
+    color: white;
+}
+.card-foto{
+    width: 2.8rem;
+    border-radius: 5px;
+    background-color: yellow;
+}
+.card-photo{
+    width: 15rem;
+    height: 9rem;
+}
+.p0{
+    color: white;
+    font-size: 1.3rem;
+    margin-left: 1rem;
+}
+.p-size{
+    width: 2rem;
+    background-color: gray;
+    color: white;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.p-text{
+    color: white;
+    margin-left: 1rem;
+    font-size: 0.8rem;
+}
+.issiq-text{
+    color: white;
+    font-size: 3rem;
+    margin-left:7rem ;
+    margin-top: 4rem;
+}
+.issiq-text-1{
+    color: white;
+    margin-left: 7rem;
+}
+.issiq-ovqatlar{
+    display: flex;
+    margin-left: 6rem;
+}
